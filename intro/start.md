@@ -10,5 +10,5 @@
 | **5.对于每一关，请用答案替换start**                          |      |
 |                                                              |      |
 
-[我已知晓，开始游戏](https://nazo.wangdemao.cf/intro/level-1)
+[我已知晓，开始游戏](https://nazo.wangdemao.cf/intro/level-1.html)
 
